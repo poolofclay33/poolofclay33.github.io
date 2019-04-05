@@ -14,6 +14,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<IMG SRC="images/ShatterGif(2).gif">
 <IMG SRC="images/ShatterGif(1).gif">
 
 ### 4. Provide a basis for further data collection through surveys or experiments
