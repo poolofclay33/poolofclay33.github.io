@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Shatter](/sample_page)
+[Shatter](/ShatterDescription)
 <img src="images/Shatter.png?raw=true"/>
 
 ---
