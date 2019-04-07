@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Shatter](/Shatter.mb)
+[Shatter](/Shatter)
 <img src="images/Shatter.png?raw=true"/>
 
 ---
