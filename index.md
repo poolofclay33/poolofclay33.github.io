@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Shatter](/https://poolofclay33.github.io/ShatterDescription)
+[Shatter](/sample_page)
 <img src="images/Shatter.png?raw=true"/>
 
 ---
