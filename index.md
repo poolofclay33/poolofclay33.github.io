@@ -1,12 +1,7 @@
 ## Recent Projects
 
 ---
-
-<video width="400" controls>
-  <source src="PD1(Vid(1)).mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
+<video src="PD1(Vid(1)).mp4" width="320" height="200" controls preload></video>
 
 ### Personal Projects
 
