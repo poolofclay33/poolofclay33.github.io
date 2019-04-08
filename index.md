@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects
 
 [Shatter](/Shatter)
 <img src="images/Shatter.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### iSO-FORM Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
