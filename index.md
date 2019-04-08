@@ -33,7 +33,7 @@
 - [PD1](/PD1)
 - [GSS](/GSS)
 - [Curtis Learning AR](/StateAR)
-- [Project 4 Title](http://example.com/)
+- [AMI](/AMI)
 - [Project 5 Title](http://example.com/)
 
 ---
