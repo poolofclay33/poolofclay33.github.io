@@ -5,7 +5,7 @@
 ### Personal Projects
 
 [Shatter](/Shatter)
-(/Shatter)<img src="images/Shatter.png?raw=true"/>
+<img src="images/Shatter.png?raw=true"/>
 
 ---
 [Runner](/Runner)
