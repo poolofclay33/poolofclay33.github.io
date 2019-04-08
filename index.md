@@ -17,6 +17,15 @@
 
 ---
 
+### iSO-FORM Projects
+
+- [PD1](/PD1)
+- [GSS](/GSS)
+- [Curtis Learning AR](/StateAR)
+- [AMI](/AMI)
+
+---
+
 ### Game Jam Games 
 
 [On The Wind](/OnTheWind)
@@ -27,13 +36,6 @@
 
 [Don't Try This At Home](/Don'tTryThis)
 <a href="https://poolofclay33.github.io/Don'tTryThis"><img src="images/OTW(1).png?raw=true" /></a>
-
-### iSO-FORM Projects
-
-- [PD1](/PD1)
-- [GSS](/GSS)
-- [Curtis Learning AR](/StateAR)
-- [AMI](/AMI)
 
 ---
 
