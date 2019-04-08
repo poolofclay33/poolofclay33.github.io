@@ -14,8 +14,6 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
 
 <audio controls>
   <source src="audio/Song(1).mp3" type="audio/mpeg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
 </audio>
 
 ### Screenshots
