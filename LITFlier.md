@@ -1,5 +1,7 @@
 ## About L.I.T. Flier (Lost in Transmission Flier)
 <a href="https://globalgamejam.org/2018/games/lit-flier-lost-transmission-flier">L.I.T. Flier Page</a>
+<br />
+<i>note: Only available on PC</i>
  
 **Project description:** L.I.T. Flier was my second game jam game during the 2018 Global Game Jam. The theme for that year was "Lost in Transmission." Me and Nate decided to come up with a "superflight-like" game where you play as a sphere who's moving past obstacles in order to get to the finish sphere at the end of the level. 
 <br />
