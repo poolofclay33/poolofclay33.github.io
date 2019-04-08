@@ -10,6 +10,14 @@ is to get back to the tree by climbing up towards it.
 <br></br>
 Since this was a game jam game (48 hours to develop), we ran out of time and were only able to finish a very stripped down version of a level we came up with. Regardless, it was still a lot of fun and I got to work on the music, which I made myself on the piano, and all of the UI you see in the game. 
 
+### Audio Files 
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ### Screenshots
 
 <img src="images/OTW(1).png?raw=true"/>
