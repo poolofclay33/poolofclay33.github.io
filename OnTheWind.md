@@ -12,7 +12,8 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
 
 ### Audio Files 
 
-<a href="https://poolofclay33.github.io/audio/Song(1).mp3">Click</a>
+<a href="https://poolofclay33.github.io/audio/Song(1).mp3">Song #1</a>
+<a href="https://poolofclay33.github.io/audio/Song(2).mp3">Song #2</a>
 
 ### Screenshots
 
