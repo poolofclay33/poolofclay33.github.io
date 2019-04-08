@@ -8,7 +8,7 @@
 <img src="images/Shatter.png?raw=true"/>
 
 ---
-[Runner](/pdf/sample_presentation.pdf)
+[Runner](/Runner)
 <img src="images/RunnerMain.png?raw=true"/>
 
 ---
