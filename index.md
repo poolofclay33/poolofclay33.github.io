@@ -18,9 +18,9 @@
 ---
 
 ### iSO-FORM Projects
-<img src="images/ISO.png" width="200" height="200" alt="iSO-FORM">
+<img src="images/ISO.png" width="250" height="200" alt="iSO-FORM">
 
-<img src="images/ISO.png" width="200" height="200" alt="iSO-FORM">       - [PD1](/PD1)
+- [PD1](/PD1)
 - [GSS](/GSS)
 - [Curtis Learning AR](/StateAR)
 - [AMI](/AMI)
