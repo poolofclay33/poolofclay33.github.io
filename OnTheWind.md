@@ -1,5 +1,6 @@
 ## About On The Wind
 <a href="https://globalgamejam.org/2019/games/wind-0"><b>On The Wind</b></a>
+<br></br>
 <i>note: Only available to play on PC</i>
   
 **Project description:** On The Wind was a 2019 game jam game. The theme for this year's game jam was "What home means to you." 
