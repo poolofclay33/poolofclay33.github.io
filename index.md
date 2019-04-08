@@ -21,13 +21,13 @@
 
 [On The Wind](/OnTheWind)
 <img src="images/OTW(1).png?raw=true"/>
-
+---
 [L.I.T. Flier](/LITFlier)
 <img src="images/OTW(1).png?raw=true"/>
-
+---
 [Don't Try This At Home](/Don'tTryThis)
 <img src="images/OTW(1).png?raw=true"/>
-
+---
 ### iSO-FORM Projects
 
 - [Project 1 Title](http://example.com/)
