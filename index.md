@@ -1,6 +1,11 @@
 ## Recent Projects
 
 ---
+<video width="400" controls>
+  <source src="gifs/PD1(Vid(1)).mov" type="video/move">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
 
 ### Personal Projects
 
@@ -27,11 +32,6 @@
 
 [Don't Try This At Home](/Don'tTryThis)
 <a href="https://poolofclay33.github.io/Don'tTryThis"><img src="images/OTW(1).png?raw=true" /></a>
-
-<video width="320" height="200" controls preload> 
-    <source src="gifs/PD1(Vid(1)).mov"></source> 
-    <source src="video.webm"></source> 
-</video>
 
 ### iSO-FORM Projects
 
