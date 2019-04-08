@@ -8,12 +8,6 @@
 <br />
 This first game jam was an absolute blast! I never attended an event like this before and so I got to meet a lot of new people who became my friends through the Game Development Club and was able to learn a lot about game development during the jam. 
 
-### Audio Files 
-
-<a href="https://poolofclay33.github.io/audio/Song(1).mp3">Song #1</a>
-<br />
-<a href="https://poolofclay33.github.io/audio/Song(2).mp3">Song #2</a>
-
 ### Screenshots
 
 <img src="images/OTW(2).png?raw=true"/>
