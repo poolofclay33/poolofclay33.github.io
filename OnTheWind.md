@@ -12,9 +12,15 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
 
 ### Audio Files 
 
-<audio controls>
-  <source src="audio/Song(1).mp3?" type="audio/mpeg">
-</audio>
+<figure>
+    <figcaption>Song #1:</figcaption>
+    <audio
+        controls
+        src="/audio/Song(1).mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 ### Screenshots
 
