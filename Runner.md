@@ -2,7 +2,7 @@
 
 <a href="https://poolofclay33.github.io/ShatterRepo/">Download Runner</a>
   
-**Project description:** (Current in Development) For Runner, 
+**Project description:** (<i>Currently in Development</i>) For Runner, 
 
 ### In-Game Video 
 
