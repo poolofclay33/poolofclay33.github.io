@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-[<b>Shatter</b>](/Shatter)
+[Shatter](/Shatter)
 <a href="https://poolofclay33.github.io/Shatter"><img src="images/Shatter.png?raw=true" /></a>
 
 ---
