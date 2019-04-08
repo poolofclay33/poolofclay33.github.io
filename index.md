@@ -28,6 +28,11 @@
 [Don't Try This At Home](/Don'tTryThis)
 <a href="https://poolofclay33.github.io/Don'tTryThis"><img src="images/OTW(1).png?raw=true" /></a>
 
+<video width="320" height="200" controls preload> 
+    <source src="gifs/PD1(Vid(1)).mov"></source> 
+    <source src="video.webm"></source> 
+</video>
+
 ### iSO-FORM Projects
 
 - [Project 1 Title](http://example.com/)
@@ -35,11 +40,6 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
-<video width="320" height="200" controls preload> 
-    <source src="gifs/PD1(Vid(1)).mov"></source> 
-    <source src="video.webm"></source> 
-</video>
 
 ---
 
