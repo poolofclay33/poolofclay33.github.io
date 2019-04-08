@@ -10,13 +10,8 @@ is to get back to the tree by climbing up towards it.
 <br></br>
 Since this was a game jam game (48 hours to develop), we ran out of time and were only able to finish a very stripped down version of a level we came up with. Regardless, it was still a lot of fun and I got to work on the music, which I made myself on the piano, and all of the UI you see in the game. 
 
-### In-Game Video 
-
-<IMG SRC="images/RunnerGif(1).gif">
-<IMG SRC="images/RunnerGif(2).gif">
-
 ### Screenshots
 
-<img src="images/RunnerS(1).png?raw=true"/>
-<img src="images/RunnerS(2).png?raw=true"/>
-<img src="images/RunnerS(3).png?raw=true"/>
+<img src="images/OTW(1).png?raw=true"/>
+<img src="images/OTW(3).png?raw=true"/>
+<img src="images/OTW(4).png?raw=true"/>
