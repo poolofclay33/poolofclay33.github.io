@@ -1,12 +1,6 @@
 ## Recent Projects
 
 ---
-<video width="400" controls>
-  <source src="gifs/PD1(Vid(1)).mov?raw=true" type="video/move">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
-
 ### Personal Projects
 
 [Shatter](/Shatter)
