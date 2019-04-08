@@ -10,6 +10,6 @@
 
 ### Screenshots
 
-<img src="images/PD1.PNG?raw=true"/>
-<img src="images/PD2.PNG?raw=true"/>
-<img src="images/PD3.PNG?raw=true"/>
+<img src="images/PD1.png?raw=true"/>
+<img src="images/PD2.png?raw=true"/>
+<img src="images/PD3.png?raw=true"/>
