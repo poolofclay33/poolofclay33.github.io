@@ -36,6 +36,11 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+<video width="320" height="200" controls preload> 
+    <source src="gifs/PD1(Vid(1)).mov"></source> 
+    <source src="video.webm"></source> 
+</video>
+
 ---
 
 
