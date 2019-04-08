@@ -16,7 +16,7 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
     <figcaption>Song #1:</figcaption>
     <audio
         controls
-        src="/audio/Song(1).mp3">
+        src="/audio/Song(1).ogg">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
