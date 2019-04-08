@@ -2,7 +2,7 @@
 <i>note: download not available</i>
   
 **Project description:** (<i>Currently in Development</i>) Heir To Nothing is a game I'm working on with a buddy of mine. He came up with
-an idea to create a medival builder game where you play as an heir of a great kingdom but are exiled from the kingdom and now 
+an idea to create a medieval builder game where you play as an heir of a king but are exiled from the kingdom and now 
 you start anew by trying to build up your own kingdom and take over what you started with. 
 <br />
 <br />
