@@ -12,15 +12,7 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
 
 ### Audio Files 
 
-<figure>
-    <figcaption>Song #1:</figcaption>
-    <audio
-        controls
-        src="/audio/Song(1).ogg">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+<a href="https://poolofclay33.github.io/audio/Song(1).mp3">Click</a>
 
 ### Screenshots
 
