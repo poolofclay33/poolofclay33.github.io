@@ -16,6 +16,6 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
 
 ### Screenshots
 
-<img src="images/OTW(1).png?raw=true"/>
+<img src="images/OTW(2).png?raw=true"/>
 <img src="images/OTW(3).png?raw=true"/>
 <img src="images/OTW(4).png?raw=true"/>
