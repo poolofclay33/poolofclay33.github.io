@@ -12,6 +12,6 @@ summer.
 
 ### Screenshots
 
-<img src="images/HTN(2).png?raw=true"/>
+<img src="images/HTN(5).png?raw=true"/>
 <img src="images/HTN(3).png?raw=true"/>
 <img src="images/HTN(4).png?raw=true"/>
