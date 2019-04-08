@@ -1,12 +1,11 @@
-## About On The Wind
-<i>note: download currently not working on site.</i>
+## About Seriously Don't Try This At Home
+<a href="https://colehuin90099.itch.io/seriously-dont-try-this-at-home">Don't Try This At Home Page</a>
+<i>note: Only available on PC</i>
   
-**Project description:** On The Wind was a 2019 game jam game. The theme for this year's game jam was "What home means to you." 
-Me, Ben and Jameel started coming up with ideas for what we took from this theme. At first, we thought of trees (for some reason) and
-then elaborated on that idea to come up with a story about a dandelion that falls from a very tall tree and the premise of the game 
-is to get back to the tree by climbing up towards it. 
+**Project description:** Seriously Don't Try This At Home was my first ever game jam and I wanted to include this on my portfolio to show where I started. This was a game jam ran by the Iowa State Game Development Club and took place in the fall of 2016. I had very little experience with Unity and game development at this point so this game jam was all about learning. I worked on the game with two other programmers who did the levels and transitioning whereas I worked on all the art you see in the game using my Note 5. 
 <br />
-Since this was a game jam game (48 hours to develop), we ran out of time and were only able to finish a very stripped down version of a level we came up with. Regardless, it was still a lot of fun and I got to work on the music, which I made myself on the piano, and all of the UI you see in the game. 
+<br />
+This first game jam was an absolute blast! I never attended an event like this before and so I got to meet a lot of new people who became my friends through the Game Development Club and was able to learn a lot about game development during the jam. 
 
 ### Audio Files 
 
