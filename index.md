@@ -18,6 +18,7 @@
 ---
 
 ### iSO-FORM Projects
+<img src="images/ISO.png" width="200" height="40" alt="Computer Hope">
 
 - [PD1](/PD1)
 - [GSS](/GSS)
