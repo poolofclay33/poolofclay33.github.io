@@ -1,14 +1,6 @@
 ## Recent Projects
 
 ---
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="https://poolofclay33.github.io/Shatter"><img src="images/Shatter.png?raw=true" /></a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
 
 ### Personal Projects
 
