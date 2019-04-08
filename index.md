@@ -32,7 +32,7 @@
 
 - [PD1](/PD1)
 - [GSS](/GSS)
-- [Project 3 Title](http://example.com/)
+- [Curtis Learning AR](/StateAR)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
