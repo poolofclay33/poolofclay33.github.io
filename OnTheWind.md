@@ -1,7 +1,13 @@
 ## About On The Wind
 <a href="https://globalgamejam.org/2019/games/wind-0">Play <b>On The Wind</b></a>
+<i>note: Only available to play on PC</i>
   
-**Project description:** For Runner, I wanted to work on a third-person controller that was very snappy and responsive. I haven't put too much time into Runner because of my work on Shatter, but I'd still like to revisit this game to finish development on the third-person controller and camera. For the environment, I used ProBuilder to create the platforms and obstacles the player runs on. The character model was created from scratch using MagicaVoxel. This was the first time I used voxel art for my games so it was a lot of fun to create models using voxel art. 
+**Project description:** On The Wind was a 2019 game jam game. The theme for this year's game jam was "What home means to you." 
+Me, Ben and Jameel started coming up with ideas for what we took from this theme. At first, we thought of trees (for some reason) and
+then elaborated on that idea to come up with a story about a dandelion that falls from a very tall tree and the premise of the game 
+is to get back to the tree by climbing up towards it. 
+<br></br>
+Since this was a game jam game (48 hours to develop), we ran out of time and were only able to finish a very stripped down version of a level we came up with. Regardless, it was still a lot of fun and I got to work on the music, which I made myself on the piano, and all of the UI you see in the game. 
 
 ### In-Game Video 
 
