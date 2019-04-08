@@ -1,6 +1,6 @@
 ## About PD1
   
-**Project description:** (<i>Currently in Development</i>) I've been working on Shatter for the past couple of weeks. My main goal was to create a simple cube runner-like game at the core, but add other mechanics for the player to use within a very vibrant environment. The game is still a work in progress but the first six levels are playable as well as the gravity level. 
+**Project description:** PD1 is an augmented reality app I programmed to show our clients. All of the 3D modeling was down by our amazing team of artists but the backend programming was worked on by myself. The point of this application was to have a 3D model of a head and be able to show the different layers (skin, muscle, bone and nerves) and also labels of each part of the anatomy. Lesions are also shown on the model as well as a description of each lesion. The app is a fun interactive for clients to take a quick look at the basic human anatomy of the head. 
 
 ### Video 
 
@@ -10,6 +10,6 @@
 
 ### Screenshots
 
-<img src="images/Shatter(3).png?raw=true"/>
-<img src="images/Shatter(4).png?raw=true"/>
-<img src="images/Shatter(2).png?raw=true"/>
+<img src="images/PD1(1).png?raw=true"/>
+<img src="images/PD1(2).png?raw=true"/>
+<img src="images/PD1(3).png?raw=true"/>
