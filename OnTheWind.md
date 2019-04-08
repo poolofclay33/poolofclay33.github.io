@@ -13,7 +13,7 @@ Since this was a game jam game (48 hours to develop), we ran out of time and wer
 ### Audio Files 
 
 <audio controls>
-  <source src="audio/Song(1).mp3" type="audio/mpeg">
+  <source src="audio/Song(1).mp3?" type="audio/mpeg">
 </audio>
 
 ### Screenshots
