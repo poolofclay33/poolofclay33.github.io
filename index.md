@@ -12,8 +12,8 @@
 <img src="images/RunnerMain.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Heir To Nothing](/HeirToNothing)
+<img src="images/HTN(1).png?raw=true"/>
 
 ---
 
