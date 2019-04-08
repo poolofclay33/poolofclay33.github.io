@@ -19,12 +19,7 @@
 
 ### iSO-FORM Projects
 <img src="images/ISO.png" width="250" height="200" alt="iSO-FORM">
-<ul>
-  <li>[PD1](/PD1)</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-
+---
 - [PD1](/PD1)
 - [GSS](/GSS)
 - [Curtis Learning AR](/StateAR)
