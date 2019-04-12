@@ -10,6 +10,6 @@ This first game jam was an absolute blast! I never attended an event like this b
 
 ### Screenshots
 
-<img src="images/OTW(2).png?raw=true"/>
-<img src="images/OTW(3).png?raw=true"/>
-<img src="images/OTW(4).png?raw=true"/>
+<img src="images/DTH(1).png?raw=true"/>
+<img src="images/DTH(2).png?raw=true"/>
+<img src="images/DTH(3).png?raw=true"/>
