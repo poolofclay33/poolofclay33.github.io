@@ -1,4 +1,4 @@
-## Recent Projects
+## Projects 
 
 ---
 
