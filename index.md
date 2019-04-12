@@ -35,10 +35,10 @@
 <a href="https://poolofclay33.github.io/OnTheWind"><img src="images/OTW(1).png?raw=true" /></a>
 
 [L.I.T. Flier](/LITFlier)
-<a href="https://poolofclay33.github.io/LITFlier"><img src="images/OTW(1).png?raw=true" /></a>
+<a href="https://poolofclay33.github.io/LITFlier"><img src="images/LIT(1).png?raw=true" /></a>
 
 [Don't Try This At Home](/Don'tTryThis)
-<a href="https://poolofclay33.github.io/Don'tTryThis"><img src="images/OTW(1).png?raw=true" /></a>
+<a href="https://poolofclay33.github.io/Don'tTryThis"><img src="images/DTH(Pic4).png?raw=true" /></a>
 
 ---
 
