@@ -10,6 +10,6 @@ For this game, I wanted to learn more about procedural generation so that we'd b
 
 ### Screenshots
 
-<img src="images/OTW(2).png?raw=true"/>
-<img src="images/OTW(3).png?raw=true"/>
-<img src="images/OTW(4).png?raw=true"/>
+<img src="images/LIT(2).png?raw=true"/>
+<img src="images/LIT(3).png?raw=true"/>
+<img src="images/LIT(4).png?raw=true"/>
