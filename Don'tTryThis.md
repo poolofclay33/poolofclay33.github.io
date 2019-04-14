@@ -1,4 +1,4 @@
-## About Seriously, Don't Try This At Home
+## About "Don't Try This At Home"
 <a href="https://colehuin90099.itch.io/seriously-dont-try-this-at-home">Don't Try This At Home Page</a>
 <br />
 <i>note: Only available on PC</i>
